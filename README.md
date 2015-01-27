@@ -1,7 +1,7 @@
 Clickatell Android Library
 ========================
 
-You can see our other libraries and more documentation at the [Clickatell APIs and Libraries Project](http://clickatell.github.io/clickatell-apis/)
+You can see our other libraries and more documentation at the [Clickatell APIs and Libraries Project](http://clickatell.github.io/)
 
 This is an Android Studio project.
 
